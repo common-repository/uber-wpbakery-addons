@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'search';
+  src:  url('fonts/icomoon.eot?vczrxq');
+  src:  url('fonts/icomoon.eot?vczrxq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?vczrxq') format('truetype'),
+    url('fonts/icomoon.woff?vczrxq') format('woff'),
+    url('fonts/icomoon.svg?vczrxq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-search-"], [class*=" uberwpb-search-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'search' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-search-document-search:before {
+  content: "\ede7";
+}
+.uberwpb-search-folder-search:before {
+  content: "\ede8";
+}
+.uberwpb-search-home-search:before {
+  content: "\ede9";
+}
+.uberwpb-search-job-search:before {
+  content: "\edea";
+}
+.uberwpb-search-map-search:before {
+  content: "\edeb";
+}
+.uberwpb-search-restaurant-search:before {
+  content: "\edec";
+}
+.uberwpb-search-search-alt-1:before {
+  content: "\eded";
+}
+.uberwpb-search-search-alt-2:before {
+  content: "\edee";
+}
+.uberwpb-search-search:before {
+  content: "\edef";
+}
+.uberwpb-search-stock-search:before {
+  content: "\edf0";
+}
+.uberwpb-search-user-search:before {
+  content: "\edf1";
+}
+

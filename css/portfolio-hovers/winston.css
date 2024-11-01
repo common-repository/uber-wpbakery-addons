@@ -1,0 +1,112 @@
+
+/*-----------------*/
+/***** Winston *****/
+/*-----------------*/
+
+figure.effect-winston {
+	background: #162633;
+	text-align: left;
+}
+
+figure.effect-winston img {
+	-webkit-transition: opacity 0.45s;
+	transition: opacity 0.45s;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+figure.effect-winston figcaption::before {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	left: 0;
+	height: 100%;
+	background: url(images/triangle.svg) no-repeat center center;
+	background-size: 100% 100%;
+	content: '';
+	-webkit-transition: opacity 0.45s, -webkit-transform 0.45s;
+	transition: opacity 0.45s, transform 0.45s;
+	-webkit-transform: rotate3d(0,0,1,45deg);
+	transform: rotate3d(0,0,1,45deg);
+	-webkit-transform-origin: 0 100%;
+	transform-origin: 0 100%;
+}
+
+figure.effect-winston h2 {
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,20px,0);
+	transform: translate3d(0,20px,0);
+	text-align:center;
+}
+
+figure.effect-winston p {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding: 0 1.5em 7% 0;
+}
+
+figure.effect-winston a {
+	margin: 0 10px;
+	color: #5d504f;
+}
+
+figure.effect-winston p i {
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,50px,0);
+	transform: translate3d(0,50px,0);
+}
+
+figure.effect-winston i {
+	display:inline-block;
+	font-size:200%;
+	color:#000;
+}
+
+figure.effect-winston:hover img {
+	opacity: 0.6;
+}
+
+figure.effect-winston:hover h2 {
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-winston:hover figcaption::before {
+	opacity: 0.7;
+	-webkit-transform: rotate3d(0,0,1,20deg);
+	transform: rotate3d(0,0,1,20deg);
+}
+
+figure.effect-winston:hover p i {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-winston:hover p a:nth-child(3) i {
+	-webkit-transition-delay: 0.05s;
+	transition-delay: 0.05s;
+}
+
+figure.effect-winston:hover p a:nth-child(2) i {
+	-webkit-transition-delay: 0.1s;
+	transition-delay: 0.1s;
+}
+
+figure.effect-winston:hover p a:first-child i {
+	-webkit-transition-delay: 0.15s;
+	transition-delay: 0.15s;
+}
+
+/* VC Fixes fol cols  */
+.vc_col-lg-12 .grid figure.effect-winston{max-height:1416px}
+.vc_col-lg-6 .grid figure.effect-winston{max-height: 708px}
+.vc_col-lg-4 .grid figure.effect-winston{max-height: 472px}
+.vc_col-lg-3 .grid figure.effect-winston{max-height: 358px}
+.vc_col-lg-2 .grid figure.effect-winston{max-height: 239px}
+
+.vc_col-lg-2 .grid figure.effect-winston p{padding: 0 1.5em 4% 0}

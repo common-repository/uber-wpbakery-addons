@@ -1,0 +1,318 @@
+@font-face {
+  font-family: 'food';
+  src:  url('fonts/icomoon.eot?p6xwd0');
+  src:  url('fonts/icomoon.eot?p6xwd0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?p6xwd0') format('truetype'),
+    url('fonts/icomoon.woff?p6xwd0') format('woff'),
+    url('fonts/icomoon.svg?p6xwd0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-food-"], [class*=" uberwpb-food-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'food' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-food-apple:before {
+  content: "\ec25";
+}
+.uberwpb-food-arabian-coffee:before {
+  content: "\ec26";
+}
+.uberwpb-food-artichoke:before {
+  content: "\ec27";
+}
+.uberwpb-food-asparagus:before {
+  content: "\ec28";
+}
+.uberwpb-food-avocado:before {
+  content: "\ec29";
+}
+.uberwpb-food-baby-food:before {
+  content: "\ec2a";
+}
+.uberwpb-food-banana:before {
+  content: "\ec2b";
+}
+.uberwpb-food-bbq:before {
+  content: "\ec2c";
+}
+.uberwpb-food-beans:before {
+  content: "\ec2d";
+}
+.uberwpb-food-beer:before {
+  content: "\ec2e";
+}
+.uberwpb-food-bell-pepper-capsicum:before {
+  content: "\ec2f";
+}
+.uberwpb-food-birthday-cake:before {
+  content: "\ec30";
+}
+.uberwpb-food-bread:before {
+  content: "\ec31";
+}
+.uberwpb-food-broccoli:before {
+  content: "\ec32";
+}
+.uberwpb-food-burger:before {
+  content: "\ec33";
+}
+.uberwpb-food-cabbage:before {
+  content: "\ec34";
+}
+.uberwpb-food-carrot:before {
+  content: "\ec35";
+}
+.uberwpb-food-cauli-flower:before {
+  content: "\ec36";
+}
+.uberwpb-food-cheese:before {
+  content: "\ec37";
+}
+.uberwpb-food-chef:before {
+  content: "\ec38";
+}
+.uberwpb-food-cherry:before {
+  content: "\ec39";
+}
+.uberwpb-food-chicken-fry:before {
+  content: "\ec3a";
+}
+.uberwpb-food-chicken:before {
+  content: "\ec3b";
+}
+.uberwpb-food-cocktail:before {
+  content: "\ec3c";
+}
+.uberwpb-food-coconut:before {
+  content: "\ec3d";
+}
+.uberwpb-food-coffee-alt:before {
+  content: "\ec3e";
+}
+.uberwpb-food-coffee-mug:before {
+  content: "\ec3f";
+}
+.uberwpb-food-coffee-pot:before {
+  content: "\ec40";
+}
+.uberwpb-food-cola:before {
+  content: "\ec41";
+}
+.uberwpb-food-corn:before {
+  content: "\ec42";
+}
+.uberwpb-food-croissant:before {
+  content: "\ec43";
+}
+.uberwpb-food-crop-plant:before {
+  content: "\ec44";
+}
+.uberwpb-food-cucumber:before {
+  content: "\ec45";
+}
+.uberwpb-food-cup-cake:before {
+  content: "\ec46";
+}
+.uberwpb-food-dining-table:before {
+  content: "\ec47";
+}
+.uberwpb-food-donut:before {
+  content: "\ec48";
+}
+.uberwpb-food-egg-plant:before {
+  content: "\ec49";
+}
+.uberwpb-food-egg-poached:before {
+  content: "\ec4a";
+}
+.uberwpb-food-farmer:before {
+  content: "\ec4b";
+}
+.uberwpb-food-farmer1:before {
+  content: "\ec4c";
+}
+.uberwpb-food-fast-food:before {
+  content: "\ec4d";
+}
+.uberwpb-food-fish:before {
+  content: "\ec4e";
+}
+.uberwpb-food-food-basket:before {
+  content: "\ec4f";
+}
+.uberwpb-food-food-cart:before {
+  content: "\ec50";
+}
+.uberwpb-food-fork-and-knife:before {
+  content: "\ec51";
+}
+.uberwpb-food-french-fries:before {
+  content: "\ec52";
+}
+.uberwpb-food-fresh-juice:before {
+  content: "\ec53";
+}
+.uberwpb-food-fruits:before {
+  content: "\ec54";
+}
+.uberwpb-food-grapes:before {
+  content: "\ec55";
+}
+.uberwpb-food-honey:before {
+  content: "\ec56";
+}
+.uberwpb-food-hot-dog:before {
+  content: "\ec57";
+}
+.uberwpb-food-hotel-alt:before {
+  content: "\ec58";
+}
+.uberwpb-food-ice-cream-alt:before {
+  content: "\ec59";
+}
+.uberwpb-food-ice-cream:before {
+  content: "\ec5a";
+}
+.uberwpb-food-ketchup:before {
+  content: "\ec5b";
+}
+.uberwpb-food-kiwi:before {
+  content: "\ec5c";
+}
+.uberwpb-food-layered-cake:before {
+  content: "\ec5d";
+}
+.uberwpb-food-lemon-alt:before {
+  content: "\ec5e";
+}
+.uberwpb-food-lobster:before {
+  content: "\ec5f";
+}
+.uberwpb-food-mango:before {
+  content: "\ec60";
+}
+.uberwpb-food-milk:before {
+  content: "\ec61";
+}
+.uberwpb-food-mushroom:before {
+  content: "\ec62";
+}
+.uberwpb-food-noodles:before {
+  content: "\ec63";
+}
+.uberwpb-food-onion:before {
+  content: "\ec64";
+}
+.uberwpb-food-orange:before {
+  content: "\ec65";
+}
+.uberwpb-food-pear:before {
+  content: "\ec66";
+}
+.uberwpb-food-peas:before {
+  content: "\ec67";
+}
+.uberwpb-food-pepper:before {
+  content: "\ec68";
+}
+.uberwpb-food-pie-alt:before {
+  content: "\ec69";
+}
+.uberwpb-food-pineapple:before {
+  content: "\ec6a";
+}
+.uberwpb-food-pizza-slice:before {
+  content: "\ec6b";
+}
+.uberwpb-food-pizza:before {
+  content: "\ec6c";
+}
+.uberwpb-food-plant:before {
+  content: "\ec6d";
+}
+.uberwpb-food-popcorn:before {
+  content: "\ec6e";
+}
+.uberwpb-food-potato:before {
+  content: "\ec6f";
+}
+.uberwpb-food-pumpkin:before {
+  content: "\ec70";
+}
+.uberwpb-food-raddish:before {
+  content: "\ec71";
+}
+.uberwpb-food-restaurant-menu:before {
+  content: "\ec72";
+}
+.uberwpb-food-restaurant:before {
+  content: "\ec73";
+}
+.uberwpb-food-salt-and-pepper:before {
+  content: "\ec74";
+}
+.uberwpb-food-sandwich:before {
+  content: "\ec75";
+}
+.uberwpb-food-sausage:before {
+  content: "\ec76";
+}
+.uberwpb-food-shrimp:before {
+  content: "\ec77";
+}
+.uberwpb-food-sof-drinks:before {
+  content: "\ec78";
+}
+.uberwpb-food-soup-bowl:before {
+  content: "\ec79";
+}
+.uberwpb-food-spoon-and-fork:before {
+  content: "\ec7a";
+}
+.uberwpb-food-steak:before {
+  content: "\ec7b";
+}
+.uberwpb-food-strawberry:before {
+  content: "\ec7c";
+}
+.uberwpb-food-sub-sandwich:before {
+  content: "\ec7d";
+}
+.uberwpb-food-sushi:before {
+  content: "\ec7e";
+}
+.uberwpb-food-taco:before {
+  content: "\ec7f";
+}
+.uberwpb-food-tea-pot:before {
+  content: "\ec80";
+}
+.uberwpb-food-tea:before {
+  content: "\ec81";
+}
+.uberwpb-food-tomato:before {
+  content: "\ec82";
+}
+.uberwpb-food-waiter-alt:before {
+  content: "\ec83";
+}
+.uberwpb-food-watermelon:before {
+  content: "\ec84";
+}
+.uberwpb-food-wheat:before {
+  content: "\ec85";
+}
+

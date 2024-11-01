@@ -1,0 +1,201 @@
+@font-face {
+  font-family: 'construction';
+  src:  url('fonts/icomoon.eot?q5jqya');
+  src:  url('fonts/icomoon.eot?q5jqya#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?q5jqya') format('truetype'),
+    url('fonts/icomoon.woff?q5jqya') format('woff'),
+    url('fonts/icomoon.svg?q5jqya#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-construction-"], [class*=" uberwpb-construction-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'construction' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-construction-architecture-alt:before {
+  content: "\ebc3";
+}
+.uberwpb-construction-architecture:before {
+  content: "\ebc4";
+}
+.uberwpb-construction-barricade:before {
+  content: "\ebc5";
+}
+.uberwpb-construction-bricks:before {
+  content: "\ebc6";
+}
+.uberwpb-construction-calculations:before {
+  content: "\ebc7";
+}
+.uberwpb-construction-cement-mix:before {
+  content: "\ebc8";
+}
+.uberwpb-construction-cement-mixer:before {
+  content: "\ebc9";
+}
+.uberwpb-construction-danger-zone:before {
+  content: "\ebca";
+}
+.uberwpb-construction-drill:before {
+  content: "\ebcb";
+}
+.uberwpb-construction-eco-energy:before {
+  content: "\ebcc";
+}
+.uberwpb-construction-eco-environmen:before {
+  content: "\ebcd";
+}
+.uberwpb-construction-energy-air:before {
+  content: "\ebce";
+}
+.uberwpb-construction-energy-oil:before {
+  content: "\ebcf";
+}
+.uberwpb-construction-energy-savings:before {
+  content: "\ebd0";
+}
+.uberwpb-construction-energy-solar:before {
+  content: "\ebd1";
+}
+.uberwpb-construction-energy-water:before {
+  content: "\ebd2";
+}
+.uberwpb-construction-engineer:before {
+  content: "\ebd3";
+}
+.uberwpb-construction-fire-extinguisher-alt:before {
+  content: "\ebd4";
+}
+.uberwpb-construction-fix-tools:before {
+  content: "\ebd5";
+}
+.uberwpb-construction-glue-oil:before {
+  content: "\ebd6";
+}
+.uberwpb-construction-hammer-alt:before {
+  content: "\ebd7";
+}
+.uberwpb-construction-help-robot:before {
+  content: "\ebd8";
+}
+.uberwpb-construction-industries-alt-1:before {
+  content: "\ebd9";
+}
+.uberwpb-construction-industries-alt-2:before {
+  content: "\ebda";
+}
+.uberwpb-construction-industries-alt-3:before {
+  content: "\ebdb";
+}
+.uberwpb-construction-industries-alt-4:before {
+  content: "\ebdc";
+}
+.uberwpb-construction-industries-alt-5:before {
+  content: "\ebdd";
+}
+.uberwpb-construction-industries:before {
+  content: "\ebde";
+}
+.uberwpb-construction-labour:before {
+  content: "\ebdf";
+}
+.uberwpb-construction-mining:before {
+  content: "\ebe0";
+}
+.uberwpb-construction-paint-brush:before {
+  content: "\ebe1";
+}
+.uberwpb-construction-pollution:before {
+  content: "\ebe2";
+}
+.uberwpb-construction-power-zone:before {
+  content: "\ebe3";
+}
+.uberwpb-construction-radio-active:before {
+  content: "\ebe4";
+}
+.uberwpb-construction-recycle-alt:before {
+  content: "\ebe5";
+}
+.uberwpb-construction-recycling-man:before {
+  content: "\ebe6";
+}
+.uberwpb-construction-safety-hat-light:before {
+  content: "\ebe7";
+}
+.uberwpb-construction-safety-hat:before {
+  content: "\ebe8";
+}
+.uberwpb-construction-saw:before {
+  content: "\ebe9";
+}
+.uberwpb-construction-screw-driver:before {
+  content: "\ebea";
+}
+.uberwpb-construction-settings-alt:before {
+  content: "\ebeb";
+}
+.uberwpb-construction-tools-alt-1:before {
+  content: "\ebec";
+}
+.uberwpb-construction-tools-alt-2:before {
+  content: "\ebed";
+}
+.uberwpb-construction-tools-bag:before {
+  content: "\ebee";
+}
+.uberwpb-construction-trolley:before {
+  content: "\ebef";
+}
+.uberwpb-construction-trowel:before {
+  content: "\ebf0";
+}
+.uberwpb-construction-under-construction-alt:before {
+  content: "\ebf1";
+}
+.uberwpb-construction-under-construction:before {
+  content: "\ebf2";
+}
+.uberwpb-construction-vehicle-cement:before {
+  content: "\ebf3";
+}
+.uberwpb-construction-vehicle-crane:before {
+  content: "\ebf4";
+}
+.uberwpb-construction-vehicle-delivery-van:before {
+  content: "\ebf5";
+}
+.uberwpb-construction-vehicle-dozer:before {
+  content: "\ebf6";
+}
+.uberwpb-construction-vehicle-excavator:before {
+  content: "\ebf7";
+}
+.uberwpb-construction-vehicle-trucktor:before {
+  content: "\ebf8";
+}
+.uberwpb-construction-vehicle-wrecking:before {
+  content: "\ebf9";
+}
+.uberwpb-construction-worker-group:before {
+  content: "\ebfa";
+}
+.uberwpb-construction-worker:before {
+  content: "\ebfb";
+}
+.uberwpb-construction-wrench:before {
+  content: "\ebfc";
+}
+

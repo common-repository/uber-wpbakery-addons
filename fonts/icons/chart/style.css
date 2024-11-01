@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'chart';
+  src:  url('fonts/icomoon.eot?7s256j');
+  src:  url('fonts/icomoon.eot?7s256j#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7s256j') format('truetype'),
+    url('fonts/icomoon.woff?7s256j') format('woff'),
+    url('fonts/icomoon.svg?7s256j#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-chart-"], [class*=" uberwpb-chart-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'chart' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-chart-arrows-axis:before {
+  content: "\ea86";
+}
+.uberwpb-chart-bar-graph:before {
+  content: "\ea87";
+}
+.uberwpb-chart-flow-alt-1:before {
+  content: "\ea88";
+}
+.uberwpb-chart-flow-alt-2:before {
+  content: "\ea89";
+}
+.uberwpb-chart-flow:before {
+  content: "\ea8a";
+}
+.uberwpb-chart-histogram-alt:before {
+  content: "\ea8b";
+}
+.uberwpb-chart-histogram:before {
+  content: "\ea8c";
+}
+.uberwpb-chart-line-alt:before {
+  content: "\ea8d";
+}
+.uberwpb-chart-line:before {
+  content: "\ea8e";
+}
+.uberwpb-chart-pie-alt:before {
+  content: "\ea8f";
+}
+.uberwpb-chart-pie:before {
+  content: "\ea90";
+}
+.uberwpb-chart-radar-graph:before {
+  content: "\ea91";
+}
+

@@ -1,0 +1,81 @@
+/*---------------*/
+/***** Duke *****/
+/*---------------*/
+
+figure.effect-duke {
+	background: -webkit-linear-gradient(-45deg, #383838 0%,#000 100%);
+	background: linear-gradient(-45deg, #383838 0%,#000 100%);
+}
+
+figure.effect-duke img,
+figure.effect-duke p {
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+}
+
+figure.effect-duke:hover img {
+	opacity: 0.1;
+	-webkit-transform: scale3d(2,2,1);
+	transform: scale3d(2,2,1);
+}
+
+figure.effect-duke h2 {
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: scale3d(0.8,0.8,1);
+	transform: scale3d(0.8,0.8,1);
+	-webkit-transform-origin: 50% 100%;
+	transform-origin: 50% 100%;
+	margin-top:45px;
+}
+
+figure.effect-duke p {
+	position: absolute;
+	bottom: 40px;
+	left: 0;
+	margin: 20px;
+	padding: 30px;
+	border: 1px solid #fff;
+	text-transform: none;
+	font-size: 90%;
+	opacity: 0;
+	-webkit-transform: scale3d(0.8,0.8,1);
+	transform: scale3d(0.8,0.8,1);
+	-webkit-transform-origin: 50% -100%;
+	transform-origin: 50% -100%;
+}
+
+figure.effect-duke:hover h2,
+figure.effect-duke:hover p {
+	opacity: 1;
+	-webkit-transform: scale3d(1,1,1);
+	transform: scale3d(1,1,1);
+}
+
+figure.effect-duke p.second {
+    position: absolute;
+    margin: 0 auto !important;
+    height: 25px;
+    line-height: 25px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    top: 40px;
+    border: none;
+}
+
+@media screen and (max-width: 50em) {
+	.content {
+		padding: 0 10px;
+		text-align: center;
+	}
+	.grid figure {
+		display: inline-block;
+		float: none;
+		margin: 10px auto;
+		width: 100%;
+	}
+}
+
+.portfolio .effect-duke figcaption p:nth-of-type(2){
+	display:none
+}

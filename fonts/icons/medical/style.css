@@ -1,0 +1,171 @@
+@font-face {
+  font-family: 'medical';
+  src:  url('fonts/icomoon.eot?n7kvlv');
+  src:  url('fonts/icomoon.eot?n7kvlv#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?n7kvlv') format('truetype'),
+    url('fonts/icomoon.woff?n7kvlv') format('woff'),
+    url('fonts/icomoon.svg?n7kvlv#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-medical-"], [class*=" uberwpb-medical-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'medical' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-medical-aids:before {
+  content: "\ece9";
+}
+.uberwpb-medical-ambulance:before {
+  content: "\ecea";
+}
+.uberwpb-medical-autism:before {
+  content: "\eceb";
+}
+.uberwpb-medical-bandage:before {
+  content: "\ecec";
+}
+.uberwpb-medical-bed-patient:before {
+  content: "\eced";
+}
+.uberwpb-medical-blind:before {
+  content: "\ecee";
+}
+.uberwpb-medical-blood-drop:before {
+  content: "\ecef";
+}
+.uberwpb-medical-blood-test:before {
+  content: "\ecf0";
+}
+.uberwpb-medical-blood:before {
+  content: "\ecf1";
+}
+.uberwpb-medical-capsule:before {
+  content: "\ecf2";
+}
+.uberwpb-medical-crutches:before {
+  content: "\ecf3";
+}
+.uberwpb-medical-dna-alt-1:before {
+  content: "\ecf4";
+}
+.uberwpb-medical-dna:before {
+  content: "\ecf5";
+}
+.uberwpb-medical-doctor-alt:before {
+  content: "\ecf6";
+}
+.uberwpb-medical-doctor:before {
+  content: "\ecf7";
+}
+.uberwpb-medical-drug-pack:before {
+  content: "\ecf8";
+}
+.uberwpb-medical-drug:before {
+  content: "\ecf9";
+}
+.uberwpb-medical-eye-alt:before {
+  content: "\ecfa";
+}
+.uberwpb-medical-first-aid-alt:before {
+  content: "\ecfb";
+}
+.uberwpb-medical-garbage:before {
+  content: "\ecfc";
+}
+.uberwpb-medical-heart-alt:before {
+  content: "\ecfd";
+}
+.uberwpb-medical-heartbeat:before {
+  content: "\ecfe";
+}
+.uberwpb-medical-herbal:before {
+  content: "\ecff";
+}
+.uberwpb-medical-hospital:before {
+  content: "\ed00";
+}
+.uberwpb-medical-icu:before {
+  content: "\ed01";
+}
+.uberwpb-medical-injection-syringe:before {
+  content: "\ed02";
+}
+.uberwpb-medical-laboratory:before {
+  content: "\ed03";
+}
+.uberwpb-medical-medical-sign-alt:before {
+  content: "\ed04";
+}
+.uberwpb-medical-medical-sign:before {
+  content: "\ed05";
+}
+.uberwpb-medical-nurse-alt:before {
+  content: "\ed06";
+}
+.uberwpb-medical-nurse:before {
+  content: "\ed07";
+}
+.uberwpb-medical-nursing-home:before {
+  content: "\ed08";
+}
+.uberwpb-medical-operation-theater:before {
+  content: "\ed09";
+}
+.uberwpb-medical-paralysis-disability:before {
+  content: "\ed0a";
+}
+.uberwpb-medical-pills:before {
+  content: "\ed0b";
+}
+.uberwpb-medical-prescription:before {
+  content: "\ed0c";
+}
+.uberwpb-medical-pulse:before {
+  content: "\ed0d";
+}
+.uberwpb-medical-stethoscope-alt:before {
+  content: "\ed0e";
+}
+.uberwpb-medical-stethoscope:before {
+  content: "\ed0f";
+}
+.uberwpb-medical-stretcher:before {
+  content: "\ed10";
+}
+.uberwpb-medical-surgeon-alt:before {
+  content: "\ed11";
+}
+.uberwpb-medical-surgeon:before {
+  content: "\ed12";
+}
+.uberwpb-medical-tablets:before {
+  content: "\ed13";
+}
+.uberwpb-medical-test-bottle:before {
+  content: "\ed14";
+}
+.uberwpb-medical-test-tube:before {
+  content: "\ed15";
+}
+.uberwpb-medical-thermometer-alt:before {
+  content: "\ed16";
+}
+.uberwpb-medical-tooth:before {
+  content: "\ed17";
+}
+.uberwpb-medical-xray:before {
+  content: "\ed18";
+}
+

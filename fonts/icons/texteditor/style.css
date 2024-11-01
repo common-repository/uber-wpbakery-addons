@@ -1,0 +1,180 @@
+@font-face {
+  font-family: 'texteditor';
+  src:  url('fonts/icomoon.eot?47yw17');
+  src:  url('fonts/icomoon.eot?47yw17#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?47yw17') format('truetype'),
+    url('fonts/icomoon.woff?47yw17') format('woff'),
+    url('fonts/icomoon.svg?47yw17#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-texteditor-"], [class*=" uberwpb-texteditor-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'texteditor' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-texteditor-align-center:before {
+  content: "\ee9c";
+}
+.uberwpb-texteditor-align-left:before {
+  content: "\ee9d";
+}
+.uberwpb-texteditor-align-right:before {
+  content: "\ee9e";
+}
+.uberwpb-texteditor-all-caps:before {
+  content: "\ee9f";
+}
+.uberwpb-texteditor-bold:before {
+  content: "\eea0";
+}
+.uberwpb-texteditor-brush:before {
+  content: "\eea1";
+}
+.uberwpb-texteditor-clip-board:before {
+  content: "\eea2";
+}
+.uberwpb-texteditor-code-alt:before {
+  content: "\eea3";
+}
+.uberwpb-texteditor-color-bucket:before {
+  content: "\eea4";
+}
+.uberwpb-texteditor-color-picker:before {
+  content: "\eea5";
+}
+.uberwpb-texteditor-copy-alt:before {
+  content: "\eea6";
+}
+.uberwpb-texteditor-copy-black:before {
+  content: "\eea7";
+}
+.uberwpb-texteditor-cut:before {
+  content: "\eea8";
+}
+.uberwpb-texteditor-delete-alt:before {
+  content: "\eea9";
+}
+.uberwpb-texteditor-edit-alt:before {
+  content: "\eeaa";
+}
+.uberwpb-texteditor-eraser-alt:before {
+  content: "\eeab";
+}
+.uberwpb-texteditor-file-alt:before {
+  content: "\eeac";
+}
+.uberwpb-texteditor-font:before {
+  content: "\eead";
+}
+.uberwpb-texteditor-header:before {
+  content: "\eeae";
+}
+.uberwpb-texteditor-indent:before {
+  content: "\eeaf";
+}
+.uberwpb-texteditor-italic-alt:before {
+  content: "\eeb0";
+}
+.uberwpb-texteditor-justify-all:before {
+  content: "\eeb1";
+}
+.uberwpb-texteditor-justify-center:before {
+  content: "\eeb2";
+}
+.uberwpb-texteditor-justify-left:before {
+  content: "\eeb3";
+}
+.uberwpb-texteditor-justify-right:before {
+  content: "\eeb4";
+}
+.uberwpb-texteditor-line-height:before {
+  content: "\eeb5";
+}
+.uberwpb-texteditor-link-alt:before {
+  content: "\eeb6";
+}
+.uberwpb-texteditor-listine-dots:before {
+  content: "\eeb7";
+}
+.uberwpb-texteditor-listing-box:before {
+  content: "\eeb8";
+}
+.uberwpb-texteditor-listing-number:before {
+  content: "\eeb9";
+}
+.uberwpb-texteditor-marker:before {
+  content: "\eeba";
+}
+.uberwpb-texteditor-outdent:before {
+  content: "\eebb";
+}
+.uberwpb-texteditor-paper-clip:before {
+  content: "\eebc";
+}
+.uberwpb-texteditor-paragraph:before {
+  content: "\eebd";
+}
+.uberwpb-texteditor-pin:before {
+  content: "\eebe";
+}
+.uberwpb-texteditor-printer:before {
+  content: "\eebf";
+}
+.uberwpb-texteditor-redo:before {
+  content: "\eec0";
+}
+.uberwpb-texteditor-rotation:before {
+  content: "\eec1";
+}
+.uberwpb-texteditor-save:before {
+  content: "\eec2";
+}
+.uberwpb-texteditor-small-cap:before {
+  content: "\eec3";
+}
+.uberwpb-texteditor-strike-through:before {
+  content: "\eec4";
+}
+.uberwpb-texteditor-sub-listing:before {
+  content: "\eec5";
+}
+.uberwpb-texteditor-subscript:before {
+  content: "\eec6";
+}
+.uberwpb-texteditor-superscript:before {
+  content: "\eec7";
+}
+.uberwpb-texteditor-table:before {
+  content: "\eec8";
+}
+.uberwpb-texteditor-text-height:before {
+  content: "\eec9";
+}
+.uberwpb-texteditor-text-width:before {
+  content: "\eeca";
+}
+.uberwpb-texteditor-trash:before {
+  content: "\eecb";
+}
+.uberwpb-texteditor-underline:before {
+  content: "\eecc";
+}
+.uberwpb-texteditor-undo:before {
+  content: "\eecd";
+}
+.uberwpb-texteditor-unlink:before {
+  content: "\eece";
+}
+

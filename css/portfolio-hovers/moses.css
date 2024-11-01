@@ -1,0 +1,59 @@
+/*-----------------*/
+/***** Moses *****/
+/*-----------------*/
+
+figure.effect-moses {
+	background: -webkit-linear-gradient(-45deg, #383838 0%,#000000 100%);
+	background: linear-gradient(-45deg, #383838 0%,#000000 100%);
+}
+
+figure.effect-moses img {
+	opacity: 0.85;
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+}
+
+figure.effect-moses h2,
+figure.effect-moses p {
+	padding: 20px;
+	width: 50%;
+	height: 50%;
+	border: 1px solid rgba(255, 255, 255, .5)
+}
+
+figure.effect-moses h2 {
+	padding: 20px;
+	width: 50%;
+	height: 50%;
+	text-align: left;
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(10px,10px,0);
+	transform: translate3d(10px,10px,0);
+}
+
+figure.effect-moses p {
+	float: right;
+	padding: 20px;
+	text-align: right;
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+figure.effect-moses:hover h2 {
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-moses:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-moses:hover img {
+	opacity: 0.3;
+}

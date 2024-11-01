@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'multimedia';
+  src:  url('fonts/icomoon.eot?s82fca');
+  src:  url('fonts/icomoon.eot?s82fca#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?s82fca') format('truetype'),
+    url('fonts/icomoon.woff?s82fca') format('woff'),
+    url('fonts/icomoon.svg?s82fca#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-multimedia-"], [class*=" uberwpb-multimedia-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'multimedia' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-multimedia-cassette-player:before {
+  content: "\ed77";
+}
+.uberwpb-multimedia-cassette:before {
+  content: "\ed78";
+}
+.uberwpb-multimedia-forward:before {
+  content: "\ed79";
+}
+.uberwpb-multimedia-game:before {
+  content: "\ed7a";
+}
+.uberwpb-multimedia-guiter:before {
+  content: "\ed7b";
+}
+.uberwpb-multimedia-headphone-alt-1:before {
+  content: "\ed7c";
+}
+.uberwpb-multimedia-headphone-alt-2:before {
+  content: "\ed7d";
+}
+.uberwpb-multimedia-headphone-alt-3:before {
+  content: "\ed7e";
+}
+.uberwpb-multimedia-listening:before {
+  content: "\ed7f";
+}
+.uberwpb-multimedia-megaphone-alt:before {
+  content: "\ed80";
+}
+.uberwpb-multimedia-megaphone:before {
+  content: "\ed81";
+}
+.uberwpb-multimedia-movie:before {
+  content: "\ed82";
+}
+.uberwpb-multimedia-mp3-player:before {
+  content: "\ed83";
+}
+.uberwpb-multimedia-multimedia:before {
+  content: "\ed84";
+}
+.uberwpb-multimedia-music-disk:before {
+  content: "\ed85";
+}
+.uberwpb-multimedia-music-note:before {
+  content: "\ed86";
+}
+.uberwpb-multimedia-pause:before {
+  content: "\ed87";
+}
+.uberwpb-multimedia-play-alt-1:before {
+  content: "\ed88";
+}
+.uberwpb-multimedia-play-alt-2:before {
+  content: "\ed89";
+}
+.uberwpb-multimedia-play-alt-3:before {
+  content: "\ed8a";
+}
+.uberwpb-multimedia-play-pause:before {
+  content: "\ed8b";
+}
+.uberwpb-multimedia-record:before {
+  content: "\ed8c";
+}
+.uberwpb-multimedia-retro-music-disk:before {
+  content: "\ed8d";
+}
+.uberwpb-multimedia-rewind:before {
+  content: "\ed8e";
+}
+.uberwpb-multimedia-song-notes:before {
+  content: "\ed8f";
+}
+.uberwpb-multimedia-sound-wave-alt:before {
+  content: "\ed90";
+}
+.uberwpb-multimedia-sound-wave:before {
+  content: "\ed91";
+}
+.uberwpb-multimedia-stop:before {
+  content: "\ed92";
+}
+.uberwpb-multimedia-video-alt:before {
+  content: "\ed93";
+}
+.uberwpb-multimedia-video-cam:before {
+  content: "\ed94";
+}
+.uberwpb-multimedia-volume-bar:before {
+  content: "\ed95";
+}
+.uberwpb-multimedia-volume-mute:before {
+  content: "\ed96";
+}
+.uberwpb-multimedia-youtube-play:before {
+  content: "\ed97";
+}
+

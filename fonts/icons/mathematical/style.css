@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'mathematical';
+  src:  url('fonts/icomoon.eot?dt7vvn');
+  src:  url('fonts/icomoon.eot?dt7vvn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dt7vvn') format('truetype'),
+    url('fonts/icomoon.woff?dt7vvn') format('woff'),
+    url('fonts/icomoon.svg?dt7vvn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-mathematical-"], [class*=" uberwpb-mathematical-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mathematical' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-mathematical-abacus-alt:before {
+  content: "\ecc0";
+}
+.uberwpb-mathematical-abacus:before {
+  content: "\ecc1";
+}
+.uberwpb-mathematical-angle:before {
+  content: "\ecc2";
+}
+.uberwpb-mathematical-calculator-alt-1:before {
+  content: "\ecc3";
+}
+.uberwpb-mathematical-calculator-alt-2:before {
+  content: "\ecc4";
+}
+.uberwpb-mathematical-circle-ruler-alt:before {
+  content: "\ecc5";
+}
+.uberwpb-mathematical-circle-ruler:before {
+  content: "\ecc6";
+}
+.uberwpb-mathematical-compass-alt-1:before {
+  content: "\ecc7";
+}
+.uberwpb-mathematical-compass-alt-2:before {
+  content: "\ecc8";
+}
+.uberwpb-mathematical-compass-alt-3:before {
+  content: "\ecc9";
+}
+.uberwpb-mathematical-compass-alt-4:before {
+  content: "\ecca";
+}
+.uberwpb-mathematical-degrees-alt-1:before {
+  content: "\eccb";
+}
+.uberwpb-mathematical-degrees-alt-2:before {
+  content: "\eccc";
+}
+.uberwpb-mathematical-degrees:before {
+  content: "\eccd";
+}
+.uberwpb-mathematical-golden-ratio:before {
+  content: "\ecce";
+}
+.uberwpb-mathematical-marker-alt-1:before {
+  content: "\eccf";
+}
+.uberwpb-mathematical-marker-alt-2:before {
+  content: "\ecd0";
+}
+.uberwpb-mathematical-marker-alt-3:before {
+  content: "\ecd1";
+}
+.uberwpb-mathematical-mathematical-alt-1:before {
+  content: "\ecd2";
+}
+.uberwpb-mathematical-mathematical-alt-2:before {
+  content: "\ecd3";
+}
+.uberwpb-mathematical-mathematical:before {
+  content: "\ecd4";
+}
+.uberwpb-mathematical-pen-alt-1:before {
+  content: "\ecd5";
+}
+.uberwpb-mathematical-pen-alt-2:before {
+  content: "\ecd6";
+}
+.uberwpb-mathematical-pen-alt-3:before {
+  content: "\ecd7";
+}
+.uberwpb-mathematical-pen-holder-alt-1:before {
+  content: "\ecd8";
+}
+.uberwpb-mathematical-pen-holder:before {
+  content: "\ecd9";
+}
+.uberwpb-mathematical-pencil-alt-1:before {
+  content: "\ecda";
+}
+.uberwpb-mathematical-pencil-alt-2:before {
+  content: "\ecdb";
+}
+.uberwpb-mathematical-pencil-alt-3:before {
+  content: "\ecdc";
+}
+.uberwpb-mathematical-pencil-alt-4:before {
+  content: "\ecdd";
+}
+.uberwpb-mathematical-ruler-alt-1:before {
+  content: "\ecde";
+}
+.uberwpb-mathematical-ruler-alt-2:before {
+  content: "\ecdf";
+}
+.uberwpb-mathematical-ruler-compass-alt:before {
+  content: "\ece0";
+}
+.uberwpb-mathematical-ruler-compass:before {
+  content: "\ece1";
+}
+.uberwpb-mathematical-ruler-pencil-alt-1:before {
+  content: "\ece2";
+}
+.uberwpb-mathematical-ruler-pencil-alt-2:before {
+  content: "\ece3";
+}
+.uberwpb-mathematical-ruler-pencil:before {
+  content: "\ece4";
+}
+.uberwpb-mathematical-ruler:before {
+  content: "\ece5";
+}
+.uberwpb-mathematical-rulers-alt:before {
+  content: "\ece6";
+}
+.uberwpb-mathematical-rulers:before {
+  content: "\ece7";
+}
+.uberwpb-mathematical-square-root:before {
+  content: "\ece8";
+}
+

@@ -1,0 +1,97 @@
+
+/*-----------------*/
+/***** Kira *****/
+/*-----------------*/
+
+figure.effect-kira {
+	background: #000;
+	text-align: left;
+}
+
+figure.effect-kira img {
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+}
+
+figure.effect-kira figcaption {
+	z-index: 1;
+}
+
+figure.effect-kira p {
+    padding: 10px 0;
+    margin-left: -6px;
+	font-size: 100%;
+	line-height: 1.5;
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,-10px,0);
+	transform: translate3d(0,-10px,0);
+}
+
+figure.effect-kira p.second {
+    margin-left:0;
+	padding:6px
+}
+
+figure.effect-kira p i {
+	margin: 0 0.5em 0 5px ;
+	color: #101010;
+}
+
+figure.effect-kira p i:hover,
+figure.effect-kira p i:focus {
+	opacity: 0.6;
+}
+
+figure.effect-kira i {
+	color:#000;
+	line-height:1em;
+	font-size:42px;
+}
+
+figure.effect-kira figcaption::before {
+	position: absolute;
+	top: 26px;
+	right: 2em;
+	left: 2em;
+	z-index: -1;
+	height: 3.5em;
+
+	content: '';
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,4em,0) scale3d(1,0.023,1) ;
+	transform: translate3d(0,4em,0) scale3d(1,0.023,1);
+	-webkit-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+}
+
+figure.effect-kira:hover img {
+	opacity: 0.3;
+}
+
+figure.effect-kira:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-kira:hover figcaption::before {
+	opacity: 0.7;
+	-webkit-transform: translate3d(0,5em,0) scale3d(1,1,1) ;
+	transform: translate3d(0,5em,0) scale3d(1,1,1);
+}
+
+
+figure.effect-kira h2 {
+	margin-top:10px
+}
+
+/* VC Text Fixes fol cols  */
+.vc_col-lg-2 figure.effect-kira h2 {
+	font-size:18px !important;
+}
+.vc_col-lg-2 figure.effect-kira figcaption::before {
+	top: 16px;
+}

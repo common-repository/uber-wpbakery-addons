@@ -1,0 +1,67 @@
+/*---------------*/
+/***** Dexter *****/
+/*---------------*/
+
+figure.effect-dexter {
+	background: -webkit-linear-gradient(45deg, #000000 0%, #3c3c3c  40%, #000000 100%);
+	background: linear-gradient(45deg, #000000 0%,#3c3c3c 40%,#000000 100%);
+}
+
+figure.effect-dexter img {
+	-webkit-transition: opacity 0.45s;
+	transition: opacity 0.35s;
+}
+
+figure.effect-dexter:hover img {
+	opacity: 0.2;
+}
+
+figure.effect-dexter figcaption::after {
+	position: absolute;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	height: -webkit-calc(50% - 30px);
+	height: calc(50% - 30px);
+	border: 1px solid rgba(255, 255, 255, .5);
+	content: '';
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,-100%,0);
+	transform: translate3d(0,-100%,0);
+}
+
+figure.effect-dexter:hover figcaption::after {
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-dexter figcaption {
+	padding: 3em;
+	text-align: left;
+}
+
+figure.effect-dexter p {
+	position: absolute;
+	right: 60px;
+	bottom: 60px;
+	left: 60px;
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,-100px,0);
+	transform: translate3d(0,-100px,0);
+}
+
+figure.effect-dexter:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+/* Text Fixes */
+figure.effect-dexter p.second {
+    top: 0px;
+    display: table;
+    left: 50px;
+}

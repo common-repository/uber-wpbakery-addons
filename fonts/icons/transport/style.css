@@ -1,0 +1,189 @@
+@font-face {
+  font-family: 'transport';
+  src:  url('fonts/icomoon.eot?ezi3ge');
+  src:  url('fonts/icomoon.eot?ezi3ge#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ezi3ge') format('truetype'),
+    url('fonts/icomoon.woff?ezi3ge') format('woff'),
+    url('fonts/icomoon.svg?ezi3ge#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-transport-"], [class*=" uberwpb-transport-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'transport' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-transport-air-balloon:before {
+  content: "\eecf";
+}
+.uberwpb-transport-airplane-alt:before {
+  content: "\eed0";
+}
+.uberwpb-transport-airplane:before {
+  content: "\eed1";
+}
+.uberwpb-transport-ambulance-crescent:before {
+  content: "\eed2";
+}
+.uberwpb-transport-ambulance-cross:before {
+  content: "\eed3";
+}
+.uberwpb-transport-articulated-truck:before {
+  content: "\eed4";
+}
+.uberwpb-transport-auto-rickshaw:before {
+  content: "\eed5";
+}
+.uberwpb-transport-bicycle-alt-1:before {
+  content: "\eed6";
+}
+.uberwpb-transport-bicycle-alt-2:before {
+  content: "\eed7";
+}
+.uberwpb-transport-bull-dozer:before {
+  content: "\eed8";
+}
+.uberwpb-transport-bus-alt-1:before {
+  content: "\eed9";
+}
+.uberwpb-transport-bus-alt-2:before {
+  content: "\eeda";
+}
+.uberwpb-transport-bus-alt-3:before {
+  content: "\eedb";
+}
+.uberwpb-transport-cable-car:before {
+  content: "\eedc";
+}
+.uberwpb-transport-car-alt-1:before {
+  content: "\eedd";
+}
+.uberwpb-transport-car-alt-2:before {
+  content: "\eede";
+}
+.uberwpb-transport-car-alt-3:before {
+  content: "\eedf";
+}
+.uberwpb-transport-car-alt-4:before {
+  content: "\eee0";
+}
+.uberwpb-transport-concrete-mixer:before {
+  content: "\eee1";
+}
+.uberwpb-transport-delivery-time:before {
+  content: "\eee2";
+}
+.uberwpb-transport-excavator:before {
+  content: "\eee3";
+}
+.uberwpb-transport-fast-delivery:before {
+  content: "\eee4";
+}
+.uberwpb-transport-fire-truck-alt:before {
+  content: "\eee5";
+}
+.uberwpb-transport-fire-truck:before {
+  content: "\eee6";
+}
+.uberwpb-transport-fork-lift:before {
+  content: "\eee7";
+}
+.uberwpb-transport-free-delivery:before {
+  content: "\eee8";
+}
+.uberwpb-transport-golf-cart:before {
+  content: "\eee9";
+}
+.uberwpb-transport-helicopter:before {
+  content: "\eeea";
+}
+.uberwpb-transport-motor-bike-alt:before {
+  content: "\eeeb";
+}
+.uberwpb-transport-motor-bike:before {
+  content: "\eeec";
+}
+.uberwpb-transport-motor-biker:before {
+  content: "\eeed";
+}
+.uberwpb-transport-oil-truck:before {
+  content: "\eeee";
+}
+.uberwpb-transport-police-car:before {
+  content: "\eeef";
+}
+.uberwpb-transport-rickshaw:before {
+  content: "\eef0";
+}
+.uberwpb-transport-rocket-alt-1:before {
+  content: "\eef1";
+}
+.uberwpb-transport-rocket-alt-2:before {
+  content: "\eef2";
+}
+.uberwpb-transport-sail-boat:before {
+  content: "\eef3";
+}
+.uberwpb-transport-scooter:before {
+  content: "\eef4";
+}
+.uberwpb-transport-sea-plane:before {
+  content: "\eef5";
+}
+.uberwpb-transport-ship-alt:before {
+  content: "\eef6";
+}
+.uberwpb-transport-speed-boat:before {
+  content: "\eef7";
+}
+.uberwpb-transport-taxi:before {
+  content: "\eef8";
+}
+.uberwpb-transport-tow-truck:before {
+  content: "\eef9";
+}
+.uberwpb-transport-tractor:before {
+  content: "\eefa";
+}
+.uberwpb-transport-traffic-light:before {
+  content: "\eefb";
+}
+.uberwpb-transport-train-line:before {
+  content: "\eefc";
+}
+.uberwpb-transport-train-steam:before {
+  content: "\eefd";
+}
+.uberwpb-transport-tram:before {
+  content: "\eefe";
+}
+.uberwpb-transport-truck-alt:before {
+  content: "\eeff";
+}
+.uberwpb-transport-truck-loaded:before {
+  content: "\ef00";
+}
+.uberwpb-transport-truck:before {
+  content: "\ef01";
+}
+.uberwpb-transport-van-alt:before {
+  content: "\ef02";
+}
+.uberwpb-transport-van:before {
+  content: "\ef03";
+}
+.uberwpb-transport-yacht:before {
+  content: "\ef04";
+}
+

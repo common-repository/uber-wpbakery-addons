@@ -1,0 +1,82 @@
+/*-----------------*/
+/***** Phoebe *****/
+/*-----------------*/
+
+figure.effect-phoebe {
+	background: #000;
+}
+
+figure.effect-phoebe img {
+	opacity: 0.85;
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+}
+
+figure.effect-phoebe:hover img {
+	opacity: 0.3;
+}
+
+
+figure.effect-phoebe h2 {
+	margin-top: 1em;
+	-webkit-transition: transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,40px,0);
+	transform: translate3d(0,40px,0);
+}
+
+figure.effect-phoebe:hover h2 {
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+figure.effect-phoebe p.second {
+	opacity: 0;
+	position: relative;
+	display: inline-block;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+    margin-top: 20px;
+}
+
+figure.effect-phoebe p i {
+	font-size: 32px;
+	opacity: 0;
+	position: relative;
+	display: inline-block;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	padding:15px;
+    margin-top: 20px;
+}
+
+figure.effect-phoebe p i{
+	color: #fff;
+}
+
+figure.effect-phoebe p a:first-child {
+	-webkit-transform: translate3d(-60px,-60px,0);
+	transform: translate3d(-60px,-60px,0);
+}
+
+figure.effect-phoebe p a:nth-child(2) {
+	-webkit-transform: translate3d(0,60px,0);
+	transform: translate3d(0,60px,0);
+}
+
+figure.effect-phoebe p a:nth-child(3) {
+	-webkit-transform: translate3d(60px,-60px,0);
+	transform: translate3d(60px,-60px,0);
+}
+
+figure.effect-phoebe:hover p i {
+	opacity: 1;
+	-webkit-transform: translate3d(0,30px,0);
+	transform: translate3d(0,30px,0)
+}
+
+figure.effect-phoebe:hover p.second {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}

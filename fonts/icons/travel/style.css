@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'travel';
+  src:  url('fonts/icomoon.eot?spfphx');
+  src:  url('fonts/icomoon.eot?spfphx#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?spfphx') format('truetype'),
+    url('fonts/icomoon.woff?spfphx') format('woff'),
+    url('fonts/icomoon.svg?spfphx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-travel-"], [class*=" uberwpb-travel-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'travel' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-travel-5-star-hotel:before {
+  content: "\ef05";
+}
+.uberwpb-travel-anchor-alt:before {
+  content: "\ef06";
+}
+.uberwpb-travel-beach-bed:before {
+  content: "\ef07";
+}
+.uberwpb-travel-camping-vest:before {
+  content: "\ef08";
+}
+.uberwpb-travel-coconut-alt:before {
+  content: "\ef09";
+}
+.uberwpb-travel-direction-sign:before {
+  content: "\ef0a";
+}
+.uberwpb-travel-hill-side:before {
+  content: "\ef0b";
+}
+.uberwpb-travel-island-alt:before {
+  content: "\ef0c";
+}
+.uberwpb-travel-long-drive:before {
+  content: "\ef0d";
+}
+.uberwpb-travel-map-pins:before {
+  content: "\ef0e";
+}
+.uberwpb-travel-plane-ticket:before {
+  content: "\ef0f";
+}
+.uberwpb-travel-sail-boat-alt-1:before {
+  content: "\ef10";
+}
+.uberwpb-travel-sail-boat-alt-2:before {
+  content: "\ef11";
+}
+.uberwpb-travel-sandals-female:before {
+  content: "\ef12";
+}
+.uberwpb-travel-sandals-male:before {
+  content: "\ef13";
+}
+.uberwpb-travel-travelling:before {
+  content: "\ef14";
+}
+

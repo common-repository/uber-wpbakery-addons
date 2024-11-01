@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'person';
+  src:  url('fonts/icomoon.eot?gvtlrl');
+  src:  url('fonts/icomoon.eot?gvtlrl#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?gvtlrl') format('truetype'),
+    url('fonts/icomoon.woff?gvtlrl') format('woff'),
+    url('fonts/icomoon.svg?gvtlrl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-person-"], [class*=" uberwpb-person-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'person' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-person-boy:before {
+  content: "\edc7";
+}
+.uberwpb-person-business-man-alt-1:before {
+  content: "\edc8";
+}
+.uberwpb-person-business-man-alt-2:before {
+  content: "\edc9";
+}
+.uberwpb-person-business-man-alt-3:before {
+  content: "\edca";
+}
+.uberwpb-person-business-man:before {
+  content: "\edcb";
+}
+.uberwpb-person-funky-man:before {
+  content: "\edcc";
+}
+.uberwpb-person-girl-alt:before {
+  content: "\edcd";
+}
+.uberwpb-person-girl:before {
+  content: "\edce";
+}
+.uberwpb-person-hotel-boy-alt:before {
+  content: "\edcf";
+}
+.uberwpb-person-hotel-boy:before {
+  content: "\edd0";
+}
+.uberwpb-person-man-in-glasses:before {
+  content: "\edd1";
+}
+.uberwpb-person-user-alt-1:before {
+  content: "\edd2";
+}
+.uberwpb-person-user-alt-2:before {
+  content: "\edd3";
+}
+.uberwpb-person-user-alt-3:before {
+  content: "\edd4";
+}
+.uberwpb-person-user-alt-4:before {
+  content: "\edd5";
+}
+.uberwpb-person-user-alt-5:before {
+  content: "\edd6";
+}
+.uberwpb-person-user-alt-6:before {
+  content: "\edd7";
+}
+.uberwpb-person-user-alt-7:before {
+  content: "\edd8";
+}
+.uberwpb-person-user-female:before {
+  content: "\edd9";
+}
+.uberwpb-person-user-male:before {
+  content: "\edda";
+}
+.uberwpb-person-user-suited:before {
+  content: "\eddb";
+}
+.uberwpb-person-user:before {
+  content: "\eddc";
+}
+.uberwpb-person-users-alt-1:before {
+  content: "\eddd";
+}
+.uberwpb-person-users-alt-2:before {
+  content: "\edde";
+}
+.uberwpb-person-users-alt-3:before {
+  content: "\eddf";
+}
+.uberwpb-person-users-alt-4:before {
+  content: "\ede0";
+}
+.uberwpb-person-users-alt-5:before {
+  content: "\ede1";
+}
+.uberwpb-person-users-alt-6:before {
+  content: "\ede2";
+}
+.uberwpb-person-users-social:before {
+  content: "\ede3";
+}
+.uberwpb-person-users:before {
+  content: "\ede4";
+}
+.uberwpb-person-waiter:before {
+  content: "\ede5";
+}
+.uberwpb-person-woman-in-glasses:before {
+  content: "\ede6";
+}
+

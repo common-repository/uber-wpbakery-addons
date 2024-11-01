@@ -1,0 +1,294 @@
+@font-face {
+  font-family: 'sport';
+  src:  url('fonts/icomoon.eot?pbobxj');
+  src:  url('fonts/icomoon.eot?pbobxj#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pbobxj') format('truetype'),
+    url('fonts/icomoon.woff?pbobxj') format('woff'),
+    url('fonts/icomoon.svg?pbobxj#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-sport-"], [class*=" uberwpb-sport-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sport' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-sport-badminton-birdie:before {
+  content: "\ee43";
+}
+.uberwpb-sport-baseball:before {
+  content: "\ee44";
+}
+.uberwpb-sport-baseballer:before {
+  content: "\ee45";
+}
+.uberwpb-sport-basketball-hoop:before {
+  content: "\ee46";
+}
+.uberwpb-sport-basketball:before {
+  content: "\ee47";
+}
+.uberwpb-sport-billiard-ball:before {
+  content: "\ee48";
+}
+.uberwpb-sport-boot-alt-1:before {
+  content: "\ee49";
+}
+.uberwpb-sport-boot-alt-2:before {
+  content: "\ee4a";
+}
+.uberwpb-sport-bowling-alt:before {
+  content: "\ee4b";
+}
+.uberwpb-sport-bowling:before {
+  content: "\ee4c";
+}
+.uberwpb-sport-canoe:before {
+  content: "\ee4d";
+}
+.uberwpb-sport-cheer-leader:before {
+  content: "\ee4e";
+}
+.uberwpb-sport-climbing:before {
+  content: "\ee4f";
+}
+.uberwpb-sport-corner:before {
+  content: "\ee50";
+}
+.uberwpb-sport-cyclist:before {
+  content: "\ee51";
+}
+.uberwpb-sport-dumbbell-alt:before {
+  content: "\ee52";
+}
+.uberwpb-sport-dumbbell:before {
+  content: "\ee53";
+}
+.uberwpb-sport-field-alt:before {
+  content: "\ee54";
+}
+.uberwpb-sport-field:before {
+  content: "\ee55";
+}
+.uberwpb-sport-football-alt:before {
+  content: "\ee56";
+}
+.uberwpb-sport-foul:before {
+  content: "\ee57";
+}
+.uberwpb-sport-goal-keeper:before {
+  content: "\ee58";
+}
+.uberwpb-sport-goal:before {
+  content: "\ee59";
+}
+.uberwpb-sport-golf-alt:before {
+  content: "\ee5a";
+}
+.uberwpb-sport-golf-bag:before {
+  content: "\ee5b";
+}
+.uberwpb-sport-golf-field:before {
+  content: "\ee5c";
+}
+.uberwpb-sport-golf:before {
+  content: "\ee5d";
+}
+.uberwpb-sport-golfer:before {
+  content: "\ee5e";
+}
+.uberwpb-sport-gym-alt-1:before {
+  content: "\ee5f";
+}
+.uberwpb-sport-gym-alt-2:before {
+  content: "\ee60";
+}
+.uberwpb-sport-gym-alt-3:before {
+  content: "\ee61";
+}
+.uberwpb-sport-gym:before {
+  content: "\ee62";
+}
+.uberwpb-sport-hand-grippers:before {
+  content: "\ee63";
+}
+.uberwpb-sport-heart-beat-alt:before {
+  content: "\ee64";
+}
+.uberwpb-sport-helmet:before {
+  content: "\ee65";
+}
+.uberwpb-sport-hockey-alt:before {
+  content: "\ee66";
+}
+.uberwpb-sport-hockey:before {
+  content: "\ee67";
+}
+.uberwpb-sport-ice-skate:before {
+  content: "\ee68";
+}
+.uberwpb-sport-jersey-alt:before {
+  content: "\ee69";
+}
+.uberwpb-sport-jersey:before {
+  content: "\ee6a";
+}
+.uberwpb-sport-jumping:before {
+  content: "\ee6b";
+}
+.uberwpb-sport-kick:before {
+  content: "\ee6c";
+}
+.uberwpb-sport-leg:before {
+  content: "\ee6d";
+}
+.uberwpb-sport-match-review:before {
+  content: "\ee6e";
+}
+.uberwpb-sport-medal-alt:before {
+  content: "\ee6f";
+}
+.uberwpb-sport-muscle-alt:before {
+  content: "\ee70";
+}
+.uberwpb-sport-muscle:before {
+  content: "\ee71";
+}
+.uberwpb-sport-offside:before {
+  content: "\ee72";
+}
+.uberwpb-sport-olympic-logo:before {
+  content: "\ee73";
+}
+.uberwpb-sport-olympic:before {
+  content: "\ee74";
+}
+.uberwpb-sport-padding:before {
+  content: "\ee75";
+}
+.uberwpb-sport-penalty-card:before {
+  content: "\ee76";
+}
+.uberwpb-sport-racer:before {
+  content: "\ee77";
+}
+.uberwpb-sport-racing-car:before {
+  content: "\ee78";
+}
+.uberwpb-sport-racing-flag-alt:before {
+  content: "\ee79";
+}
+.uberwpb-sport-racing-flag:before {
+  content: "\ee7a";
+}
+.uberwpb-sport-racings-wheel:before {
+  content: "\ee7b";
+}
+.uberwpb-sport-referee:before {
+  content: "\ee7c";
+}
+.uberwpb-sport-refree-jersey:before {
+  content: "\ee7d";
+}
+.uberwpb-sport-result:before {
+  content: "\ee7e";
+}
+.uberwpb-sport-rugby-ball:before {
+  content: "\ee7f";
+}
+.uberwpb-sport-rugby-player:before {
+  content: "\ee80";
+}
+.uberwpb-sport-rugby:before {
+  content: "\ee81";
+}
+.uberwpb-sport-runner-alt-1:before {
+  content: "\ee82";
+}
+.uberwpb-sport-runner-alt-2:before {
+  content: "\ee83";
+}
+.uberwpb-sport-runner:before {
+  content: "\ee84";
+}
+.uberwpb-sport-score-board:before {
+  content: "\ee85";
+}
+.uberwpb-sport-skiing-man:before {
+  content: "\ee86";
+}
+.uberwpb-sport-skydiving-goggles:before {
+  content: "\ee87";
+}
+.uberwpb-sport-snow-mobile:before {
+  content: "\ee88";
+}
+.uberwpb-sport-steering:before {
+  content: "\ee89";
+}
+.uberwpb-sport-substitute:before {
+  content: "\ee8a";
+}
+.uberwpb-sport-swimmer:before {
+  content: "\ee8b";
+}
+.uberwpb-sport-table-tennis:before {
+  content: "\ee8c";
+}
+.uberwpb-sport-team-alt:before {
+  content: "\ee8d";
+}
+.uberwpb-sport-team:before {
+  content: "\ee8e";
+}
+.uberwpb-sport-tennis-player:before {
+  content: "\ee8f";
+}
+.uberwpb-sport-tennis:before {
+  content: "\ee90";
+}
+.uberwpb-sport-time:before {
+  content: "\ee91";
+}
+.uberwpb-sport-track:before {
+  content: "\ee92";
+}
+.uberwpb-sport-tracking:before {
+  content: "\ee93";
+}
+.uberwpb-sport-trophy-alt:before {
+  content: "\ee94";
+}
+.uberwpb-sport-trophy:before {
+  content: "\ee95";
+}
+.uberwpb-sport-volleyball-alt:before {
+  content: "\ee96";
+}
+.uberwpb-sport-volleyball-fire:before {
+  content: "\ee97";
+}
+.uberwpb-sport-volleyball:before {
+  content: "\ee98";
+}
+.uberwpb-sport-water-bottle:before {
+  content: "\ee99";
+}
+.uberwpb-sport-whisle:before {
+  content: "\ee9a";
+}
+.uberwpb-sport-win-trophy:before {
+  content: "\ee9b";
+}
+

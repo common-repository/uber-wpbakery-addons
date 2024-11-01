@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'business';
+  src:  url('fonts/icomoon.eot?msp01c');
+  src:  url('fonts/icomoon.eot?msp01c#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?msp01c') format('truetype'),
+    url('fonts/icomoon.woff?msp01c') format('woff'),
+    url('fonts/icomoon.svg?msp01c#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-business-"], [class*=" uberwpb-business-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'business' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-business-bank-alt:before {
+  content: "\ea66";
+}
+.uberwpb-business-barcode:before {
+  content: "\ea67";
+}
+.uberwpb-business-basket:before {
+  content: "\ea68";
+}
+.uberwpb-business-bill-alt:before {
+  content: "\ea69";
+}
+.uberwpb-business-billboard:before {
+  content: "\ea6a";
+}
+.uberwpb-business-briefcase-alt-1:before {
+  content: "\ea6b";
+}
+.uberwpb-business-briefcase-alt-2:before {
+  content: "\ea6c";
+}
+.uberwpb-business-building-alt:before {
+  content: "\ea6d";
+}
+.uberwpb-business-businessman:before {
+  content: "\ea6e";
+}
+.uberwpb-business-businesswoman:before {
+  content: "\ea6f";
+}
+.uberwpb-business-cart-alt:before {
+  content: "\ea70";
+}
+.uberwpb-business-chair:before {
+  content: "\ea71";
+}
+.uberwpb-business-clip:before {
+  content: "\ea72";
+}
+.uberwpb-business-coins:before {
+  content: "\ea73";
+}
+.uberwpb-business-company:before {
+  content: "\ea74";
+}
+.uberwpb-business-contact-add:before {
+  content: "\ea75";
+}
+.uberwpb-business-deal:before {
+  content: "\ea76";
+}
+.uberwpb-business-files:before {
+  content: "\ea77";
+}
+.uberwpb-business-growth:before {
+  content: "\ea78";
+}
+.uberwpb-business-id-card:before {
+  content: "\ea79";
+}
+.uberwpb-business-idea:before {
+  content: "\ea7a";
+}
+.uberwpb-business-list:before {
+  content: "\ea7b";
+}
+.uberwpb-business-meeting-add:before {
+  content: "\ea7c";
+}
+.uberwpb-business-money-bag:before {
+  content: "\ea7d";
+}
+.uberwpb-business-people:before {
+  content: "\ea7e";
+}
+.uberwpb-business-pie-chart:before {
+  content: "\ea7f";
+}
+.uberwpb-business-presentation-alt:before {
+  content: "\ea80";
+}
+.uberwpb-business-stamp:before {
+  content: "\ea81";
+}
+.uberwpb-business-stock-mobile:before {
+  content: "\ea82";
+}
+.uberwpb-business-support:before {
+  content: "\ea83";
+}
+.uberwpb-business-tasks-alt:before {
+  content: "\ea84";
+}
+.uberwpb-business-wheel:before {
+  content: "\ea85";
+}
+

@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'device';
+  src:  url('fonts/icomoon.eot?wqtz0y');
+  src:  url('fonts/icomoon.eot?wqtz0y#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?wqtz0y') format('truetype'),
+    url('fonts/icomoon.woff?wqtz0y') format('woff'),
+    url('fonts/icomoon.svg?wqtz0y#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uberwpb-device-"], [class*=" uberwpb-device-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'device' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uberwpb-device-android-nexus:before {
+  content: "\eaf6";
+}
+.uberwpb-device-android-tablet:before {
+  content: "\eaf7";
+}
+.uberwpb-device-apple-watch:before {
+  content: "\eaf8";
+}
+.uberwpb-device-drwaing-tablet:before {
+  content: "\eaf9";
+}
+.uberwpb-device-earphone:before {
+  content: "\eafa";
+}
+.uberwpb-device-flash-drive:before {
+  content: "\eafb";
+}
+.uberwpb-device-game-control:before {
+  content: "\eafc";
+}
+.uberwpb-device-headphone-alt:before {
+  content: "\eafd";
+}
+.uberwpb-device-htc-one:before {
+  content: "\eafe";
+}
+.uberwpb-device-imac:before {
+  content: "\eaff";
+}
+.uberwpb-device-ipad-touch:before {
+  content: "\eb00";
+}
+.uberwpb-device-iphone:before {
+  content: "\eb01";
+}
+.uberwpb-device-ipod-nano:before {
+  content: "\eb02";
+}
+.uberwpb-device-ipod-touch:before {
+  content: "\eb03";
+}
+.uberwpb-device-keyboard-alt:before {
+  content: "\eb04";
+}
+.uberwpb-device-keyboard-wireless:before {
+  content: "\eb05";
+}
+.uberwpb-device-laptop-alt:before {
+  content: "\eb06";
+}
+.uberwpb-device-macbook:before {
+  content: "\eb07";
+}
+.uberwpb-device-magic-mouse:before {
+  content: "\eb08";
+}
+.uberwpb-device-microphone-alt:before {
+  content: "\eb09";
+}
+.uberwpb-device-monitor:before {
+  content: "\eb0a";
+}
+.uberwpb-device-mouse:before {
+  content: "\eb0b";
+}
+.uberwpb-device-nintendo:before {
+  content: "\eb0c";
+}
+.uberwpb-device-playstation:before {
+  content: "\eb0d";
+}
+.uberwpb-device-psvita:before {
+  content: "\eb0e";
+}
+.uberwpb-device-radio-mic:before {
+  content: "\eb0f";
+}
+.uberwpb-device-refrigerator:before {
+  content: "\eb10";
+}
+.uberwpb-device-samsung-galaxy:before {
+  content: "\eb11";
+}
+.uberwpb-device-surface-tablet:before {
+  content: "\eb12";
+}
+.uberwpb-device-washing-machine:before {
+  content: "\eb13";
+}
+.uberwpb-device-wifi-router:before {
+  content: "\eb14";
+}
+.uberwpb-device-wii-u:before {
+  content: "\eb15";
+}
+.uberwpb-device-windows-lumia:before {
+  content: "\eb16";
+}
+.uberwpb-device-wireless-mouse:before {
+  content: "\eb17";
+}
+.uberwpb-device-xbox-360:before {
+  content: "\eb18";
+}
+
